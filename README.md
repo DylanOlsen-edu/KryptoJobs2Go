@@ -26,3 +26,9 @@ The steps for this challenge are broken out into the following sections:
 * Import Ethereum Transaction Functions into the KryptoJobs2Go Application
 * Sign and Execute a Payment Transaction
 * Inspect the Transaction on Ganache
+<img width="607" alt="Screenshot 2022-11-11 at 1 56 15 AM" src="https://user-images.githubusercontent.com/104539357/201295197-a22ccd6b-f92f-46b8-ab34-f07fb894ee2a.png">
+<img width="539" alt="Screenshot 2022-11-11 at 1 59 14 AM" src="https://user-images.githubusercontent.com/104539357/201295336-b225b568-25e4-4030-a203-96fdcffcf96c.png">
+<img width="1123" alt="Screenshot 2022-11-11 at 2 00 50 AM" src="https://user-images.githubusercontent.com/104539357/201295375-d4c27f39-7511-4bb6-a18f-833e34fc1d06.png">
+<img width="1196" alt="Screenshot 2022-11-11 at 2 01 35 AM" src="https://user-images.githubusercontent.com/104539357/201295401-f63f5a2f-1012-4180-a056-4aab71e9b195.png">
+
+
